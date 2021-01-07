@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with Android development at the P.F.C. bank.
 - 🌱 I’m currently learning game development and pixel art.
-- 💬 Ask me about mechanical keyboards, table tennis and music.
+- 💬 Ask me about table tennis, music and mechanical keyboards.
 - 📫 How to reach me: kimo@kimo.io
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=thiagokimo)](https://github.com/LordDashMe/github-contribution-stats/)
