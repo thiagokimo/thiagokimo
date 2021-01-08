@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with Android development at the P.F.C. bank.
+- 🔭 I’m currently working with Android development at the lovely swedish bank called P.F.C.
 - 🌱 I’m currently learning game development and pixel art.
 - 💬 Ask me about table tennis, music and mechanical keyboards.
 - 📫 How to reach me: kimo@kimo.io
